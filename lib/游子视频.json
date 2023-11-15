@@ -1,0 +1,43 @@
+{
+
+    "作者": "NB",
+    
+    "站名": "游子视频",
+    
+    "主页url": "https://www.youzisp.tv/",
+    
+    "简介": "【NB哥温馨提示】资源仅供测试交流，不得商用！请勿相信影片中的广告，以免上当受骗。+&&</p>",
+    
+    "演员": "主演：&&</span>",
+    
+    "导演": "导演：&&</span>",
+    
+    "图片": "data-original=\"&&\"",
+    
+    "链接": "href=\"&&\"",
+    
+    "标题": "title=\"&&\"",
+    
+    "捜索模式": "1",
+    
+    "播放列表": "<a&&/a>",
+    
+    "数组":"hl-item-thumb hl-lazy\"&&</a>",
+    
+    "副标题":"hl-pic-text\"&&</div>",
+    
+    //"播放数组": "<ul class=\"hl-plays-list hl-sort-list clearfix\">&&</ul>",
+    
+    "线路数组":"<i class=\"iconfont hl-icon-shipin\">&&</a>",
+    
+    //"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+    
+    "嗅探词": ".m3u8#.mp4#.flv#aliyundrive#alicloudccp",
+    
+    "搜索url": "vodsearch/{wd}-------------.html",
+    
+    "分类url": "https://www.youzisp.tv/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+    
+    "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+    
+}

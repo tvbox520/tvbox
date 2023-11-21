@@ -1,0 +1,13 @@
+{//发布页xgaa.cc
+   "请求头":"手机",
+    "站名": "西瓜影院",
+    "主页url": "https://www.xiguabb.com/",
+   "搜索模式":"1",
+   "搜索url":"https://www.xiguabb.com/vodsearch/{wd}-------------.html",    
+   "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+   "线路列表":"<h3&&</h3>",
+     "线路标题": "title\">&&</h3>[不包含:线路1]",
+    "播放数组":"stui-content__playlist column8 clearfix\">&&</ul>",
+     "分类url":"https://www.xiguabb.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+     "分类数组": "<li&&</li>"
+}
